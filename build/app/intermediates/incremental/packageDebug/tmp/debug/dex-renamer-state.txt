@@ -1,4 +1,4 @@
-#Tue Apr 11 20:24:06 KST 2023
-base.0=D\:\\Flutter\\Working\\nomadcoder_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed Apr 12 00:09:25 KST 2023
+base.0=D\:\\Flutter\\Working\\nom_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
